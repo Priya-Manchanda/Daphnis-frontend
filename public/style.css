@@ -1,0 +1,69 @@
+body {
+  box-sizing: border-box;
+}
+h4 {
+  color: white;
+  text-decoration: none;
+  margin: 15px;
+}
+.spans {
+  font-weight: bold;
+}
+.combine {
+  margin: 5px 0 5px 15px;
+}
+.stripe {
+  color: #5a5a5a;
+}
+nav {
+  background-color: #800000;
+}
+.collapse > a {
+  color: white;
+}
+img {
+  margin-right: 20px;
+}
+.contact {
+  color: #088f8f;
+}
+.card {
+  margin: 10px;
+}
+.float-container {
+  display: flex;
+}
+.float-child {
+  flex: 50%;
+}
+/* .float-child:first-child {
+  margin-right: 20px;
+} */
+.new {
+  width: 200px;
+  border: 1px white;
+  margin-bottom: 5px;
+}
+input {
+  text-align: center;
+  width: 400px;
+}
+button {
+  background-color: #088f8f;
+  border: 1px white;
+  color: white;
+  border-radius: 3px;
+}
+.card > .card-body > img {
+  border-radius: 5px;
+}
+.card > .card-body > .bold {
+  font-weight: bold;
+}
+.card > .card-body > .price {
+  font-weight: bold;
+  color: #800000;
+}
+.card-body {
+  background-color: white;
+}
