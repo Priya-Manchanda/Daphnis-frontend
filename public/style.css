@@ -33,12 +33,12 @@ img {
 .float-container {
   display: flex;
 }
-.float-child {
+/* .float-child {
   flex: 50%;
-}
-/* .float-child:first-child {
-  margin-right: 20px;
 } */
+.float-child:first-child {
+  margin-right: 20px;
+}
 .new {
   width: 200px;
   border: 1px white;

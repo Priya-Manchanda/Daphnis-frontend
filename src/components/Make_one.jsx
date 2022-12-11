@@ -6,10 +6,10 @@ function Make_one() {
   return (
     <div className="float-container">
       <div className="float-child">
-        <Card />
+        <Card_next />
       </div>
       <div className="float-child">
-        <Card_next />
+        <Card />
       </div>
     </div>
   );
