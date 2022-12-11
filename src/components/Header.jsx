@@ -43,12 +43,12 @@ export default function Header() {
             <a className="nav-link active" aria-current="page" href="#">
               Blog
             </a>
-            <a className="nav-link active User" aria-current="page" href="#">
+            <a className="nav-link active User1" aria-current="page" href="#">
               Login
             </a>
             <img
               src="https://www.freeiconspng.com/thumbs/account-icon/account-profile-icon-1.png"
-              className="User"
+              className="User2"
               alt="Account image"
               width="40px"
               height="40px"

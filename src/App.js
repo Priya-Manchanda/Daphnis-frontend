@@ -9,8 +9,6 @@ function App() {
     <div>
       <Header />
       <Combined/>
-      {/* <Card_next/>
-      <Card /> */}
       <Make_one/>
     </div>
   );
